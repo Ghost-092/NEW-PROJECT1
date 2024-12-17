@@ -1,0 +1,32 @@
+C:\Users\user\Desktop\апишка саф\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\апишка саф\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\апишка саф\bin\Debug\net6.0\апишка саф.exe
+C:\Users\user\Desktop\апишка саф\bin\Debug\net6.0\апишка саф.deps.json
+C:\Users\user\Desktop\апишка саф\bin\Debug\net6.0\апишка саф.runtimeconfig.json
+C:\Users\user\Desktop\апишка саф\bin\Debug\net6.0\апишка саф.dll
+C:\Users\user\Desktop\апишка саф\bin\Debug\net6.0\апишка саф.pdb
+C:\Users\user\Desktop\апишка саф\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\апишка саф\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\апишка саф\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\апишка саф\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\апишка саф.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\апишка саф.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\апишка саф.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\апишка саф.AssemblyInfo.cs
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\апишка саф.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\апишка саф.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\апишка саф.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\staticwebassets\msbuild.апишка саф.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\staticwebassets\msbuild.build.апишка саф.props
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.апишка саф.props
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.апишка саф.props
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\scopedcss\bundle\апишка саф.styles.css
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\апишка саф.csproj.CopyComplete
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\апишка саф.dll
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\refint\апишка саф.dll
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\апишка саф.pdb
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\апишка саф.genruntimeconfig.cache
+C:\Users\user\Desktop\апишка саф\obj\Debug\net6.0\ref\апишка саф.dll
